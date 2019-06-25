@@ -28,7 +28,7 @@ SECRET_KEY = 'op7++(k@znfzdr5d3a+7-329%rj+fdr#l4c)j#ktfbad!skduw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['logan7696.pythonanywhere.com']
 
 
 # Application definition
